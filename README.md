@@ -18,7 +18,6 @@ construindo meus primeiros projetos reais enquanto aprofundo a base em programa�
 
 ## 📂 Projetos em destaque
 - [Jogo do Número Secreto](https://github.com/Jhoeedi/Jogo-do-numero-secreto): jogo em JavaScript onde você tenta adivinhar o número sorteado
-- [Alura Plus](https://github.com/Jhoeedi/aluraplus): projeto de HTML e CSS baseado em curso da Alura
 - [Estruturas de Dados](https://github.com/Jhoeedi/introdu-o-estrutura-dados): estudos da faculdade
 
 ## 📫 Contato
